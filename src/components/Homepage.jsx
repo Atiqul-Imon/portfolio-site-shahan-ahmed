@@ -2,7 +2,7 @@ import React from 'react';
 
 function HomePage() {
   return (
-    <div className="w-full h-[60vh] bg-gradient-to-r from-[#1a202c] to-[#2d3748] flex items-center justify-center text-white">
+    <div className="w-full h-[70vh] bg-gradient-to-r from-[#1a202c] to-[#2d3748] flex items-center justify-center text-white">
       <div className="container mx-auto px-4 flex flex-col-reverse md:flex-row items-center justify-between h-full relative">
         {/* Left Section - Text */}
         <div className="w-full md:w-1/2 text-left z-10 p-6">
@@ -15,12 +15,7 @@ function HomePage() {
 
           {/* Buttons: Services and Contact Me */}
           <div className="flex space-x-4">
-            <a
-              href="#services"
-              className="bg-transparent border-2 border-[#63b3ed] text-[#63b3ed] py-3 px-8 rounded-full text-lg font-semibold hover:bg-[#63b3ed] hover:text-[#1a202c] transition-colors duration-300"
-            >
-              Services
-            </a>
+           
             <a
               href="#contact"
               className="bg-transparent border-2 border-[#a3bffa] text-[#a3bffa] py-3 px-8 rounded-full text-lg font-semibold hover:bg-[#a3bffa] hover:text-[#1a202c] transition-colors duration-300"
