@@ -39,12 +39,12 @@ function RecentProjects() {
             className="bg-[#1e293b] p-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl"
             onClick={() =>
               openModal(
-                "https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735484324/SFItQW5hbHl0aWNzLURhc2hib2FyZDJjbG91ZF9vNWpqMnQ=/drilldown"
+                "https://res.cloudinary.com/db5yniogx/image/upload/v1735484324/HR-Analytics-Dashboard2cloud_o5jj2t.png"
               )
             }
           >
             <img
-              src="https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735484324/SFItQW5hbHl0aWNzLURhc2hib2FyZDJjbG91ZF9vNWpqMnQ=/drilldown"
+              src="https://res.cloudinary.com/db5yniogx/image/upload/v1735484324/HR-Analytics-Dashboard2cloud_o5jj2t.png"
               alt="Sample Research"
               className="w-full h-56 object-cover rounded-lg mb-4 cursor-pointer"
             />
@@ -78,12 +78,12 @@ fetchData();`}
             className="bg-[#1e293b] p-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl"
             onClick={() =>
               openModal(
-                "https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735484492/SFItQW5hbHl0aWNzLURhc2hib2FyZGNsb3VkX2VranBtZQ==/drilldown"
+                "https://res.cloudinary.com/db5yniogx/image/upload/v1735484492/HR-Analytics-Dashboardcloud_ekjpme.png"
               )
             }
           >
             <img
-              src="https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735484492/SFItQW5hbHl0aWNzLURhc2hib2FyZGNsb3VkX2VranBtZQ==/drilldown"
+              src="https://res.cloudinary.com/db5yniogx/image/upload/v1735484492/HR-Analytics-Dashboardcloud_ekjpme.png"
               alt="Data Analysis"
               className="w-full h-56 object-cover rounded-lg mb-4 cursor-pointer"
             />
@@ -113,12 +113,12 @@ console.log(analyzeData(data));`}
             className="bg-[#1e293b] p-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl"
             onClick={() =>
               openModal(
-                "https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735484526/U2FsZXMtaW5zaWdodC1kYXNoYm9hcmQtUG93ZXItQkljbG91ZF9jYmM0eWQ=/drilldown"
+                "https://res.cloudinary.com/db5yniogx/image/upload/v1735484526/Sales-insight-dashboard-Power-BIcloud_cbc4yd.png"
               )
             }
           >
             <img
-              src="https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735484526/U2FsZXMtaW5zaWdodC1kYXNoYm9hcmQtUG93ZXItQkljbG91ZF9jYmM0eWQ=/drilldown"
+              src="https://res.cloudinary.com/db5yniogx/image/upload/v1735484526/Sales-insight-dashboard-Power-BIcloud_cbc4yd.png"
               alt="Market Research"
               className="w-full h-56 object-cover rounded-lg mb-4 cursor-pointer"
             />

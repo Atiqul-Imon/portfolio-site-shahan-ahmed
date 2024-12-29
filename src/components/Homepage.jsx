@@ -33,7 +33,7 @@ function HomePage() {
         {/* Right Section - Image */}
         <div className="w-full md:w-1/2 absolute top-0 right-0 h-full">
           <img
-            src="https://res-console.cloudinary.com/db5yniogx/thumbnails/v1/image/upload/v1735480645/c2hhaGFuYWhtZWQtcmVtb3ZlYmctcHJldmlld19tZG1td2g=/drilldown"
+            src="https://res.cloudinary.com/db5yniogx/image/upload/v1735480645/shahanahmed-removebg-preview_mdmmwh.png"
             alt="Shahan Ahmed"
             className="w-full h-full object-cover opacity-85 rounded-none"
           />
