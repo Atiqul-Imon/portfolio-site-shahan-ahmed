@@ -24,7 +24,7 @@ function AboutMe() {
             {/* Social Media Icons */}
             <div className="flex gap-6 justify-center md:justify-start mt-6">
               <a
-                href="https://github.com/AtiqulImon"
+                href="https://github.com/shahan24h"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl text-gray-400 hover:text-white transition duration-300"
@@ -32,7 +32,7 @@ function AboutMe() {
                 <i className="fab fa-github"></i>
               </a>
               <a
-                href="https://linkedin.com/in/AtiqulImon"
+                href="https://linkedin.com/in/shahanahmed"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl text-gray-400 hover:text-white transition duration-300"
@@ -40,7 +40,7 @@ function AboutMe() {
                 <i className="fab fa-linkedin"></i>
               </a>
               <a
-                href="https://twitter.com/AtiqulImon"
+                href="https://twitter.com/shahanahmed"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl text-gray-400 hover:text-white transition duration-300"
