@@ -35,7 +35,7 @@ function Footer() {
           {/* Right Section - Social Media Icons */}
           <div className="flex gap-6 text-center md:text-left mt-6 md:mt-0">
             <a
-              href="https://github.com/AtiqulImon"
+              href="https://github.com/shahan24h"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl text-gray-400 hover:text-white transition duration-300"
@@ -43,7 +43,7 @@ function Footer() {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://linkedin.com/in/AtiqulImon"
+              href="https://www.linkedin.com/in/shahan24h/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl text-gray-400 hover:text-white transition duration-300"
@@ -51,7 +51,7 @@ function Footer() {
               <i className="fab fa-linkedin"></i>
             </a>
             <a
-              href="https://twitter.com/AtiqulImon"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl text-gray-400 hover:text-white transition duration-300"

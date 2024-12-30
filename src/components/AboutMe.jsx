@@ -32,7 +32,7 @@ function AboutMe() {
                 <i className="fab fa-github"></i>
               </a>
               <a
-                href="https://linkedin.com/in/shahanahmed"
+                href="https://www.linkedin.com/in/shahan24h/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl text-gray-400 hover:text-white transition duration-300"
@@ -40,7 +40,7 @@ function AboutMe() {
                 <i className="fab fa-linkedin"></i>
               </a>
               <a
-                href="https://twitter.com/shahanahmed"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl text-gray-400 hover:text-white transition duration-300"
