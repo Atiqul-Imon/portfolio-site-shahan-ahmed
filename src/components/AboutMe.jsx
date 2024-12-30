@@ -27,7 +27,7 @@ function AboutMe() {
                 href="https://github.com/shahan24h"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-2xl text-gray-400 hover:text-white transition duration-300"
+                className="text-4xl text-blue-500 hover:text-blue-700 transition duration-300"
               >
                 <i className="fab fa-github"></i>
               </a>
@@ -35,17 +35,25 @@ function AboutMe() {
                 href="https://www.linkedin.com/in/shahan24h/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-2xl text-gray-400 hover:text-white transition duration-300"
+                className="text-4xl text-blue-600 hover:text-blue-800 transition duration-300"
               >
                 <i className="fab fa-linkedin"></i>
               </a>
               <a
-                href=""
+                href="https://twitter.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-2xl text-gray-400 hover:text-white transition duration-300"
+                className="text-4xl text-blue-400 hover:text-blue-600 transition duration-300"
               >
                 <i className="fab fa-twitter"></i>
+              </a>
+              <a
+                href="https://scholar.google.com/citations?hl=en&user=ROqm-4EAAAAJ"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-4xl text-green-500 hover:text-green-700 transition duration-300"
+              >
+                <i className="fas fa-graduation-cap"></i>
               </a>
             </div>
           </div>
